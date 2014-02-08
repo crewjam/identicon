@@ -1,0 +1,4 @@
+build
+dist
+identicon.egg-info
+*.bak
