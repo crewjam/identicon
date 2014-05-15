@@ -11,5 +11,5 @@ setup(
   url='https://github.com/shnjp/identicon',
   author='Shin Adachi',
   author_email='shn@glucose.jp',
-  install_requires=["PIL"],
+  install_requires=["Pillow"],
 )
